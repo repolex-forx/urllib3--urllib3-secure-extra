@@ -1,0 +1,11 @@
+{
+  "org": "urllib3",
+  "repo": "urllib3-secure-extra",
+  "versions": [
+    {
+      "commit": "b69da6320d82f1a08ff5035fb6bab917172b541e",
+      "tag": "0.1.0",
+      "parsed_at": "2026-10-11T07:58:21.123855+00:00"
+    }
+  ]
+}
